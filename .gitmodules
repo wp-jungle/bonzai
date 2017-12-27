@@ -1,0 +1,3 @@
+[submodule "bonzai"]
+	path = bonzai
+	url = git@github.com:wp-jungle/bonzai-core.git
