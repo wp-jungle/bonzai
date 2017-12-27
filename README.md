@@ -11,7 +11,7 @@ share this with you, however, all the uses cases have not been tested yet. It sh
 included tools, and you need to be able to understand the code written in the core repository. We won't provide any support using it. However, feel free to
 open some issues if you find something not working or post some pull request and we'll attempt to make all our possible to improve the stack!
 
-[Documentation](bonzai/doc/README.md)
+[Documentation on Bonzai-core repository](https://github.com/wp-jungle/bonzai-core)
 
 Not reinventing the wheel
 -------------------------
