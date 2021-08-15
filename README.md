@@ -1,8 +1,7 @@
 Bonzai
 ======
 
-**Bonzai** is a kick-starting Wordpress development stack for mastering your automated deployments and others
-repetitive tasks.
+**Bonzai** is a kick-starting Wordpress development stack for mastering your automated deployments and others repetitive tasks.
 
 The main goal of this stack is to provide a pre-configured bunch of tools that will help you build and deploy your WordPress sites in no time!
 
@@ -21,7 +20,7 @@ libraries available in the open-source world and make them work together in a un
 
 **Bonzai** has been built using those technologies available on Windows:
 
-- VirtualBox, Vagrant, and Puphpet for running your Virtual Machine
+- VirtualBox (or any other), Vagrant, and Homestead for running your Virtual Machine
 - Git, Putty and Pageant for managing your repositories
 - NodeJS, GruntJS for managing all your development tasks
 - Composer for managing your plugins

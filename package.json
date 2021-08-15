@@ -1,7 +1,7 @@
 {
   "name": "wp-bonzai",
   "description": "kick-starting Wordpress development stack for mastering your automated deployments and others repetitive tasks",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "Thomas Lartaud <contact@thomaslartaud.com>",
   "private": true,
   "repository": {
