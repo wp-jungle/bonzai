@@ -1,5 +1,5 @@
-Bonzai (Beta)
-=============
+Bonzai
+======
 
 **Bonzai** is a kick-starting Wordpress development stack for mastering your automated deployments and others
 repetitive tasks.

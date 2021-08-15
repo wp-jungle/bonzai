@@ -5,9 +5,9 @@ module.exports = function (grunt) {
     // ---
 
     var mstck = require('./bonzai/src/grunt/lib/helpers')(grunt),
-        tasks = require('load-grunt-tasks')(grunt),
-        time = require('time-grunt')(grunt),
-        path = require('path');
+            tasks = require('load-grunt-tasks')(grunt),
+            time = require('time-grunt')(grunt),
+            path = require('path');
 
     require('shipit-deploy')(grunt);
     require('shipit-shared')(grunt);
@@ -33,11 +33,11 @@ module.exports = function (grunt) {
     ]);
 
     // Load env file config
-    require('dotenv').load();
+    require('dotenv').config();
 
     // Load json files
     var bonzaiPkg = grunt.file.readJSON('package.json'),
-        bonzaiApp = grunt.file.readJSON('config/bonzai/application.json');
+            bonzaiApp = grunt.file.readJSON('config/bonzai/application.json');
 
     // -----------------------------------------------------------------------------------------------------------------
     // APPLICATION
